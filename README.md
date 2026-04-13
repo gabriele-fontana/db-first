@@ -15,3 +15,6 @@ description (TEXT)
 seats (SMALLINT)
 doors (SMALLINT)
 fuel_type (VARCHAR(20))
+transmission (VARCHAR(20))
+condition (VARCHAR(20))
+
